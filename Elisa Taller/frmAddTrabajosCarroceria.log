@@ -1,0 +1,4 @@
+Línea 141: la clase MSComctlLib.Toolbar del control tlbOpciones no era una clase de control cargada.
+Línea 163: la clase MSComctlLib.Toolbar del control tlbCargo no era una clase de control cargada.
+Línea 333: la clase MSComctlLib.Toolbar del control tlbBarraHerramientas no era una clase de control cargada.
+Línea 372: la clase MSComctlLib.ImageList del control ImgBarraHerramienta no era una clase de control cargada.

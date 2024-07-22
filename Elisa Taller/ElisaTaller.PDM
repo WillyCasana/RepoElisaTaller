@@ -1,0 +1,258 @@
+[Root]
+Most Recent Package=Paquete de instalación estándar 1
+
+
+[Package|Paquete de instalación estándar 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Sistemas Auto Summit\Fuentes\Fuentes\Elisa Taller\Paquete
+
+[Package|Paquete de instalación estándar 1|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Paquete de instalación estándar 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 1|Files Found]
+
+[Package|Paquete de instalación estándar 1|Files Released]
+CC245ES.DLL=
+CR2C40ES.DLL=
+X2F4XLES.DLL=
+X2F4WDES.DLL=
+X2F4WKES.DLL=
+X2F4TXES.DLL=
+X2F4SVES.DLL=
+X2F4RTES.DLL=
+X2F4RCES.DLL=
+X2F4HTES.DLL=
+U2FDIF.DLL=
+X2F4CRES.DLL=
+X3D4MPES.DLL=
+X3D4DKES.DLL=
+P3S4ODES.DLL=
+P3RDAOES.DLL=
+P3CDAOES.DLL=
+P3BDAOES.DLL=
+P3D4BDES.DLL=
+MSCc2ES.dll=
+MSCmCES.dll=
+
+[Package|Paquete de instalación estándar 1|Missing Dependency Information]
+
+[Package|Paquete de instalación estándar 1|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\MSCHRT20.OCX=
+C:\Windows\SysWOW64\COMDLG32.OCX=
+C:\Windows\SysWOW64\Crystl32.OCX=
+C:\Windows\SysWOW64\MSHFLXGD.OCX=
+C:\Windows\SysWOW64\TABCTL32.OCX=
+C:\Windows\SysWOW64\MSADODC.OCX=
+C:\Windows\SysWOW64\mscomctl.OCX=
+C:\Windows\SysWOW64\MSSTDFMT.DLL=
+C:\Windows\SysWOW64\MSBIND.DLL=
+
+[Package|Paquete de instalación estándar 1|Files Added]
+
+[Package|Paquete de instalación estándar 1|Files Removed]
+
+[Package|Paquete de instalación estándar 1|Files In Project]
+C:\Sistemas Auto Summit\Fuentes\Fuentes\Elisa Taller\ElisaTaller.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6ES.DLL=Yes
+C:\Windows\SysWOW64\MSBIND.DLL=Yes
+C:\Windows\SysWOW64\MSSTDFMT.DLL=Yes
+C:\Windows\SysWOW64\STDFTES.DLL=Yes
+C:\Windows\SysWOW64\DAO2535.TLB=Yes
+C:\Windows\SysWOW64\DAO350.DLL=Yes
+C:\Windows\SysWOW64\MSJET35.DLL=Yes
+C:\Windows\SysWOW64\msjter35.dll=Yes
+C:\Windows\SysWOW64\msjint35.dll=Yes
+C:\Windows\SysWOW64\vbajet32.dll=Yes
+C:\Windows\SysWOW64\expsrv.dll=Yes
+C:\Windows\SysWOW64\MSRD2X35.DLL=Yes
+C:\Windows\SysWOW64\MSREPL35.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Windows\SysWOW64\VB5DB.DLL=Yes
+C:\Sistemas Auto Summit\Elisa\dll\apado370.dll=Yes
+C:\Sistemas Auto Summit\Elisa\dll\apfrm370.dll=Yes
+C:\Sistemas Auto Summit\Elisa\dll\aplibv1.dll=Yes
+C:\Sistemas Auto Summit\Elisa\dll\apicamc_vol1.dll=Yes
+C:\Sistemas Auto Summit\Elisa\dll\ElisaLibs.dll=Yes
+C:\Windows\SysWOW64\mscomctl.OCX=Yes
+C:\Windows\SysWOW64\MSADODC.OCX=Yes
+C:\Windows\SysWOW64\ADODCES.DLL=Yes
+C:\Windows\SysWOW64\MSDATLST.OCX=Yes
+C:\Windows\SysWOW64\DATLSES.DLL=Yes
+C:\Windows\system\MSCOMCT2.OCX=Yes
+C:\Windows\System32\FM20.DLL=Yes
+C:\Windows\SysWOW64\TABCTL32.OCX=Yes
+C:\Windows\SysWOW64\TABCTES.DLL=Yes
+C:\Windows\SysWOW64\MSHFLXGD.OCX=Yes
+C:\Windows\SysWOW64\MSHFGES.DLL=Yes
+C:\Windows\SysWOW64\MSMASK32.OCX=Yes
+C:\Windows\SysWOW64\MSMSKES.DLL=Yes
+C:\Windows\SysWOW64\Crystl32.OCX=Yes
+C:\Windows\SysWOW64\crpe32.dll=Yes
+C:\Windows\SysWOW64\implode.dll=Yes
+C:\Windows\SysWOW64\pg32.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=Yes
+C:\Windows\SysWOW64\Crxlat32.dll=Yes
+C:\Windows\SysWOW64\P2bbnd.dll=Yes
+C:\Windows\SysWOW64\p2bdao.dll=Yes
+C:\Windows\SysWOW64\p2ctdao.dll=Yes
+C:\Windows\SysWOW64\p2irdao.dll=Yes
+C:\Windows\SysWOW64\p2sodbc.dll=Yes
+C:\Windows\SysWOW64\u2ddisk.dll=Yes
+C:\Windows\SysWOW64\u2dmapi.dll=Yes
+C:\Windows\SysWOW64\u2fcr.dll=Yes
+C:\Windows\SysWOW64\u2fhtml.dll=Yes
+C:\Windows\SysWOW64\u2frec.dll=Yes
+C:\Windows\SysWOW64\u2frtf.dll=Yes
+C:\Windows\SysWOW64\u2fsepv.dll=Yes
+C:\Windows\SysWOW64\u2ftext.dll=Yes
+C:\Windows\SysWOW64\u2fwks.dll=Yes
+C:\Windows\SysWOW64\u2fwordw.dll=Yes
+C:\Windows\SysWOW64\u2fxls.dll=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Windows\SysWOW64\CMDLGES.DLL=Yes
+C:\Windows\SysWOW64\MSMAPI32.OCX=Yes
+C:\Windows\SysWOW64\MSMPIES.DLL=Yes
+C:\Windows\SysWOW64\MSCHRT20.OCX=Yes
+C:\Windows\SysWOW64\MSCH2ES.DLL=Yes
+C:\Windows\SysWOW64\COMCT332.OCX=Yes
+C:\Windows\SysWOW64\CMCT3ES.DLL=Yes
+C:\Sistemas Auto Summit\Elisa\dll\fpspr70.ocx=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Paquete de instalación estándar 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Install Locations]
+C:\Sistemas Auto Summit\Fuentes\Fuentes\Elisa Taller\ElisaTaller.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6ES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSBIND.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\STDFTES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\DAO2535.TLB=$(MSDAOPath)
+C:\Windows\SysWOW64\DAO350.DLL=$(MSDAOPath)
+C:\Windows\SysWOW64\MSJET35.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\msjter35.dll=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\msjint35.dll=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\vbajet32.dll=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\expsrv.dll=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\VB5DB.DLL=$(WinSysPath)
+C:\Sistemas Auto Summit\Elisa\dll\apado370.dll=$(WinSysPath)
+C:\Sistemas Auto Summit\Elisa\dll\apfrm370.dll=$(WinSysPath)
+C:\Sistemas Auto Summit\Elisa\dll\aplibv1.dll=$(WinSysPath)
+C:\Sistemas Auto Summit\Elisa\dll\apicamc_vol1.dll=$(WinSysPath)
+C:\Sistemas Auto Summit\Elisa\dll\ElisaLibs.dll=$(WinSysPath)
+C:\Windows\SysWOW64\mscomctl.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSADODC.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\ADODCES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSDATLST.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\DATLSES.DLL=$(WinSysPath)
+C:\Windows\system\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\System32\FM20.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\TABCTES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSHFLXGD.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSHFGES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSMASK32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSMSKES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\Crystl32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\crpe32.dll=$(WinSysPath)
+C:\Windows\SysWOW64\implode.dll=$(WinSysPath)
+C:\Windows\SysWOW64\pg32.dll=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\Crxlat32.dll=$(WinPath)\Crystal
+C:\Windows\SysWOW64\P2bbnd.dll=$(WinSysPath)
+C:\Windows\SysWOW64\p2bdao.dll=$(WinSysPath)
+C:\Windows\SysWOW64\p2ctdao.dll=$(WinSysPath)
+C:\Windows\SysWOW64\p2irdao.dll=$(WinSysPath)
+C:\Windows\SysWOW64\p2sodbc.dll=$(WinSysPath)
+C:\Windows\SysWOW64\u2ddisk.dll=$(WinPath)\Crystal
+C:\Windows\SysWOW64\u2dmapi.dll=$(WinPath)\Crystal
+C:\Windows\SysWOW64\u2fcr.dll=$(WinPath)\Crystal
+C:\Windows\SysWOW64\u2fhtml.dll=$(WinPath)\Crystal
+C:\Windows\SysWOW64\u2frec.dll=$(WinPath)\Crystal
+C:\Windows\SysWOW64\u2frtf.dll=$(WinPath)\Crystal
+C:\Windows\SysWOW64\u2fsepv.dll=$(WinPath)\Crystal
+C:\Windows\SysWOW64\u2ftext.dll=$(WinPath)\Crystal
+C:\Windows\SysWOW64\u2fwks.dll=$(WinPath)\Crystal
+C:\Windows\SysWOW64\u2fwordw.dll=$(WinPath)\Crystal
+C:\Windows\SysWOW64\u2fxls.dll=$(WinPath)\Crystal
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\CMDLGES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSMAPI32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSMPIES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCHRT20.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCH2ES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\COMCT332.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\CMCT3ES.DLL=$(WinSysPath)
+C:\Sistemas Auto Summit\Elisa\dll\fpspr70.ocx=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Paquete de instalación estándar 1|Configure Shared Files]
+Applicable=Yes
+C:\Sistemas Auto Summit\Fuentes\Fuentes\Elisa Taller\ElisaTaller.exe=No
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Paquete de instalación estándar 1|Distribution]
+Type=single
+Size=
+Title=ElisaTaller
+
+[Package|Paquete de instalación estándar 1|IconGroups]
+Group0=ElisaTaller
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 1|ElisaTaller]
+Icon1=ElisaTaller.exe
+Title1=ElisaTaller
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 1|Package]
+PackageFolder=C:\Sistemas Auto Summit\Fuentes\Fuentes\Elisa Taller\Paquete
+ProjectFolder=C:\Sistemas Auto Summit\Fuentes\Fuentes\Elisa Taller
+ServerSideCab=
+File1=C:\Sistemas Auto Summit\Fuentes\Fuentes\Elisa Taller\Paquete\setup.exe
+File2=C:\Sistemas Auto Summit\Fuentes\Fuentes\Elisa Taller\Paquete\Setup.Lst
+File3=C:\Sistemas Auto Summit\Fuentes\Fuentes\Elisa Taller\Paquete\ElisaTaller.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

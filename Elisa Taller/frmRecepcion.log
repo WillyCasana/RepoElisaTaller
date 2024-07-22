@@ -1,0 +1,33 @@
+Línea 179: la clase Crystal.CrystalReport del control rptOT no era una clase de control cargada.
+Línea 4509: la clase Crystal.CrystalReport del control rptOTS no era una clase de control cargada.
+Línea 4523: la clase Crystal.CrystalReport del control crInventario no era una clase de control cargada.
+Línea 182: el nombre de la propiedad _ExtentX de rptOT no es válido.
+Línea 183: el nombre de la propiedad _ExtentY de rptOT no es válido.
+Línea 184: el nombre de la propiedad _Version de rptOT no es válido.
+Línea 185: el nombre de la propiedad WindowControlBox de rptOT no es válido.
+Línea 186: el nombre de la propiedad WindowMaxButton de rptOT no es válido.
+Línea 187: el nombre de la propiedad WindowMinButton de rptOT no es válido.
+Línea 188: el nombre de la propiedad WindowState de rptOT no es válido.
+Línea 189: el nombre de la propiedad PrintFileLinesPerPage de rptOT no es válido.
+Línea 190: el nombre de la propiedad WindowShowCloseBtn de rptOT no es válido.
+Línea 191: el nombre de la propiedad WindowShowPrintSetupBtn de rptOT no es válido.
+Línea 4512: el nombre de la propiedad _ExtentX de rptOTS no es válido.
+Línea 4513: el nombre de la propiedad _ExtentY de rptOTS no es válido.
+Línea 4514: el nombre de la propiedad _Version de rptOTS no es válido.
+Línea 4515: el nombre de la propiedad WindowControlBox de rptOTS no es válido.
+Línea 4516: el nombre de la propiedad WindowMaxButton de rptOTS no es válido.
+Línea 4517: el nombre de la propiedad WindowMinButton de rptOTS no es válido.
+Línea 4518: el nombre de la propiedad WindowState de rptOTS no es válido.
+Línea 4519: el nombre de la propiedad PrintFileLinesPerPage de rptOTS no es válido.
+Línea 4520: el nombre de la propiedad WindowShowCloseBtn de rptOTS no es válido.
+Línea 4521: el nombre de la propiedad WindowShowPrintSetupBtn de rptOTS no es válido.
+Línea 4526: el nombre de la propiedad _ExtentX de crInventario no es válido.
+Línea 4527: el nombre de la propiedad _ExtentY de crInventario no es válido.
+Línea 4528: el nombre de la propiedad _Version de crInventario no es válido.
+Línea 4529: el nombre de la propiedad WindowControlBox de crInventario no es válido.
+Línea 4530: el nombre de la propiedad WindowMaxButton de crInventario no es válido.
+Línea 4531: el nombre de la propiedad WindowMinButton de crInventario no es válido.
+Línea 4532: el nombre de la propiedad WindowState de crInventario no es válido.
+Línea 4533: el nombre de la propiedad PrintFileLinesPerPage de crInventario no es válido.
+Línea 4534: el nombre de la propiedad WindowShowCloseBtn de crInventario no es válido.
+Línea 4535: el nombre de la propiedad WindowShowPrintSetupBtn de crInventario no es válido.

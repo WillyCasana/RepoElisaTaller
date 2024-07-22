@@ -1,0 +1,20 @@
+Public Function BOM(Fecha As Date) As Date  '//Bof of Month
+    BOM = DateValue("01/" & Month(Fecha) & "/" & Year(Fecha))
+End Function
+Public Function EOM(Fecha As Date) As Date '//End of Month
+    EOM = DateValue("01/" & IIf(Month(Fecha) = 12, 1, Month(Fecha) + 1) & "/" & IIf(Month(Fecha) = 12, Year(Fecha) + 1, Year(Fecha))) - 1
+End Function
+Public Sub ReOrdenaLista(ByRef Lista As ListView, ByVal Cabecera As MSComctlLib.ColumnHeader)
+    If Lista.SortKey = Cabecera.Index - 1 Then
+        If Lista.SortOrder = lvwAscending Then
+            Lista.SortOrder = lvwDescending
+        Else
+            Lista.SortOrder = lvwAscending
+        End If
+    Else
+        Lista.Sorted = False
+        Lista.SortKey = Cabecera.Index - 1
+        Lista.SortOrder = lvwAscending
+        Lista.Sorted = True
+    End If
+End Sub
